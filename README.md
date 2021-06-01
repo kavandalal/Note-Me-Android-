@@ -6,7 +6,7 @@ Edit the previously added notes
 
 Delete desired notes 
 
-Photos provided in the .pdf file in rhe home page of repository 
+Photos provided in the .pdf file in the home page of repository 
 
 .zip file for Androd Studio 
 
